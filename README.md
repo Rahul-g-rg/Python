@@ -1,4 +1,4 @@
-# Python Programming - Beginner to Advanced 🚀  
+# Python Programming
 
 This repository contains Python exercises, concepts, and projects covering fundamental to advanced topics in Python programming. The topics include Python basics, data structures, control flow, functions, file handling, object-oriented programming (OOP), NumPy, Pandas, and data visualization.  
 
